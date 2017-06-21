@@ -1,0 +1,15 @@
+div{
+    width:600px;
+    height:130px;
+    padding:30px;
+    background-color:#e60000;
+    color:white;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    width:400px;
+}
